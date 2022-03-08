@@ -1,0 +1,1 @@
+<input id="copyright_bildergalerie_<?php echo $galleryCount;?>" type="text" name="copyright_bildergalerie[]" placeholder="<?php _e('Copyright-Hinweis Bild', 'kulturvermittlung');?> <?php echo $galleryCount;?>" value="<?php if(!empty($copyrightNotice)) { echo $copyrightNotice; } ?>"/>

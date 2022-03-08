@@ -1,0 +1,13 @@
+span.dashicons.green {
+  color: #46b450; }
+
+span.dashicons.red {
+  color: #dc3232; }
+
+.wp-list-table tr.highlight td {
+  background: #ccffcc; }
+
+.menu-icon-angebot .wp-menu-image img, .menu-icon-tip .wp-menu-image img, .toplevel_page_cortex_kulturvermittlung .wp-menu-image img {
+  opacity: 1 !important; }
+
+/*# sourceMappingURL=style.css.map */

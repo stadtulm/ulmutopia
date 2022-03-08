@@ -1,0 +1,1 @@
+<div class="info-icon-container"><img class="info-icon" src="<?php echo $template_dir;?>/static/img/icons/info.svg" alt="<?php _e('Infos anzeigen', 'teilhabekultur');?>"/><div class="info-tooltip"><?php echo $content;?></div></div>
