@@ -1,18 +1,10 @@
 <!doctype html>
 <html <?php language_attributes(); ?>>
 <head>
-	<!--------------------------
-	* Powered by:
-	*
-	* Cortex Media Framework v2.4
-	*
-	* Cortex Media GmbH, Ulm.
-	* https://cortex-media.de
-	---------------------------->
 	<meta charset="<?php bloginfo( 'charset' ); ?>" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="author" content="Celitement GmbH & Co.KG" />
-	<meta name="Copyright" content="Celitement GmbH & Co.KG" />
+	<meta name="author" content="Stadt Ulm, Kulturabteilung" />
+	<meta name="Copyright" content="Stadt Ulm, Kulturabteilung" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<?php $template_dir = get_template_directory_uri(); ?>
